@@ -1,0 +1,40 @@
+.UIButton_button__NCVnN{
+  min-width: 100px;
+  padding: 10px;
+  border-radius: 3px
+  ;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 600;
+
+  background: none;
+  outline: none;
+  transition: .4s;
+  cursor: pointer;
+}
+.UIButton_button__NCVnN:disabled,
+.UIButton_button__NCVnN:disabled:hover{
+  color: #9c9c9c;
+  border-color: #9c9c9c;
+  cursor: default;
+  background: transparent;
+}
+
+.UIButton_dark__BC2wn{
+  border: 1px solid #fff;
+  color: #fff;
+}
+.UIButton_dark__BC2wn:hover{
+  background-color: #fff;
+  color: #000;
+}
+.UIButton_light__Q-d2A{
+  border: 1px solid #000;
+  color: #000;
+}
+.UIButton_light__Q-d2A:hover{
+  background-color: #000;
+  color: #fff;
+}
+
+/*# sourceMappingURL=main.2815a947.css.map*/
